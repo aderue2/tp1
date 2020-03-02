@@ -34,4 +34,4 @@ Ce TP a pour objectif de vous faire découvrir la gestion de versions et ses out
 ## Référence
 
 * [Site officiel de Git](https://git-scm.com)
-* [Pro Git Book](https://git-scm.com/book/fr/v2)
+* [Pro Git Book](https://git-scm.com/book/fr/v
